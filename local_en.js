@@ -1,6 +1,6 @@
-﻿var english={
+var english={
       "version": "1.3",
-    "date": "2016-9-28",
+    "date": "2016-10-17",
     "_front": {
 	"Cancel": "Cancel",
 	"Confirm": "Confirm",
@@ -33,7 +33,7 @@
     "Details": "Details",
 	"Skin_Color":"Skin Color",
     "Model_Color":"Model Color",
-    "Current":"Current",
+    "Current_Color":"Current Color",
     "Basic":"Basic", 
 	"Login": "Login",
     "Username_or_Email": "Username or Email",
@@ -177,7 +177,6 @@
 	"Auto_Level": "Auto Level",
 	"Reset": "Reset",
 	"Nozzle_Height": "Nozzle Height",
-	"Move": "Move",
     "Set": "Set",
     "Nozzle_Detect": "Nozzle Detect",
 	"Demo_Op":"Demo Op.",
