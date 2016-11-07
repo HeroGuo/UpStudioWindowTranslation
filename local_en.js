@@ -790,7 +790,7 @@ var english={
     "Charge":"Charge",
     "Free":"Free",
     "Please sign in your account":"Please sign in your account",
-    "Model description":"Model description",
+    "Description":"Description",
     "Purchase":"Purchase",
     "Purchased":"Purchased",
     "Unpublish":"Unpublish",
@@ -813,7 +813,14 @@ var english={
     "Refreshing datas…":"Refreshing datas…",
     "Pull up can load more data":"Pull up can load more data",
     "Release to load more data immediately":"Release to load more data immediately",
-    "Loading more datas…":"Loading more datas…"
+    "Loading more datas…":"Loading more datas…",
+     "Sure to buy?":"确定购买吗？",
+    "Unpublish successful":"Unpublish successful",
+    "Published successfully":"Published successfully",
+    "Your points is not enough!":"Your points is not enough!",
+    "Purchase failed. Please try again":"Purchase failed. Please try again",
+    "Plesae enter the model price":"Plesae enter the model price",
+    "No Datas":"No Datas"
 }
 
 }
