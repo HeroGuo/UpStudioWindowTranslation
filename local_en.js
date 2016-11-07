@@ -814,7 +814,7 @@ var english={
     "Pull up can load more data":"Pull up can load more data",
     "Release to load more data immediately":"Release to load more data immediately",
     "Loading more datas…":"Loading more datas…",
-     "Sure to buy?":"确定购买吗？",
+     "Sure to buy?":"Sure to buy?",
     "Unpublish successful":"Unpublish successful",
     "Published successfully":"Published successfully",
     "Your points is not enough!":"Your points is not enough!",
