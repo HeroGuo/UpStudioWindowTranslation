@@ -820,7 +820,9 @@ var english={
     "Your points is not enough!":"Your points is not enough!",
     "Purchase failed. Please try again":"Purchase failed. Please try again",
     "Plesae enter the model price":"Plesae enter the model price",
-    "No Datas":"No Datas"
+    "No Datas":"No Datas",
+    "Please enter a price for pure numbers":"Please enter a price for pure numbers",
+    "Prepare...":"Prepare..."
 }
 
 }
