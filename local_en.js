@@ -296,7 +296,7 @@ var english={
 		"ERROR: Printer connection error": "ERROR: Printer Connection Error.",
 		"ERROR: Data transfer failure": "ERROR: Data Transfer Failure.",
 		"ERROR: Printer is busy,please stop and try again": "ERROR: Printer is busy. Please wait until it stops and then try again.",
-		"ERROR: Printer material shortage,still continue?": "ERROR: Printer is short of material, still continue?",
+		"ERROR: Printer material shortage,still continue?": "ERROR: Printer is short of material, still continue?",
 		"ERROR: Printer support material shortage,still continue?": "ERROR: Printer is short of support material, still continue?",
 		"ERROR: Nozzleheight set error":"ERROR: Failed to set Nozzle height",
 		"Correct range":"Correct range",
