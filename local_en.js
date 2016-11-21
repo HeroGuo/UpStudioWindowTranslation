@@ -296,9 +296,10 @@ var english={
 		"ERROR: Printer connection error": "ERROR: Printer Connection Error.",
 		"ERROR: Data transfer failure": "ERROR: Data Transfer Failure.",
 		"ERROR: Printer is busy,please stop and try again": "ERROR: Printer is busy. Please wait until it stops and then try again.",
-		"ERROR: Printer material shortage,still continue?": "ERROR: Printer is short of material, still continue?",
+		"ERROR: Printer material shortage,still continue?": "ERROR: Printer is short of material, still continue?",
 		"ERROR: Printer support material shortage,still continue?": "ERROR: Printer is short of support material, still continue?",
-		"ERROR: Nozzleheight set error</br>Correct range:": "ERROR: Failed to set Nozzle height\r\nCorrect range:",
+		"ERROR: Nozzleheight set error":"ERROR: Failed to set Nozzle height",
+		"Correct range":"Correct range",
 		"Repeat last print?": "Repeat Last Print?",
 		"ERROR: Other error ": "ERROR: Other Errors.",
 		"Language test": "Language Test",
@@ -425,7 +426,6 @@ var english={
 		"Rotate By Models Center": "Rotate around the Center of Models",
 		"Exit": "Exit",
 		"app is not verified":"App is not verified"
-
 	},
 	"image_front": {
 		"_Model_Height": "Model Height",
