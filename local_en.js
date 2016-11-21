@@ -575,6 +575,7 @@ var english={
     "normal": "Normal",
     "fine": "Fine",
     "fast": "Fast",
+    "turbo":"Turbo",
     "timeH": "h",
     "timeM": "m",
     "timeS": "s",
@@ -887,6 +888,8 @@ var english={
     "Plesae enter the model price":"Plesae enter the model price",
     "No Datas":"No Datas",
     "Please enter a price for pure numbers":"Please enter a price for pure numbers",
-    "Prepare...":"Prepare..."
+    "Prepare...":"Prepare...",
+    "Being slicing, can not import model":"Being slicing, can not import model",
+    "No material detected, please replace it":"No material detected, please replace it"
 }
 }
