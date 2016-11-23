@@ -1,7 +1,7 @@
 var english={
 	"name": {
 		"version": "1.4",
-    	"date": "2016-11-11",
+    	         "date": "2016-11-23",
 		"name": "en"
 	},
 	"_front": {
@@ -260,7 +260,8 @@ var english={
 		"Model_buy": "Buy",
 		"Model_preparing":"Preparing data, can not close",
 		"LatestVersion": "Latest Version V.",
-		"Failed_to_bind": "绑定失败"
+		"Failed_to_bind": "Binding failed",
+		"Custom_material_information_empty":"Custom material information can not be blank"
 	},
 	"print": {
 		"PrinterStatus-1": "Printer not Connected",
