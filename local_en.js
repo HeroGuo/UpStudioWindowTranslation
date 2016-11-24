@@ -426,7 +426,8 @@ var english={
 		"Initialize View": "Initialize View",
 		"Rotate By Models Center": "Rotate around the Center of Models",
 		"Exit": "Exit",
-		"app is not verified":"App is not verified"
+		"app is not verified":"App is not verified",
+		"The file is damaged":"The file is damaged"
 	},
 	"image_front": {
 		"_Model_Height": "Model Height",
@@ -451,8 +452,7 @@ var english={
 		"_Rubber": "Eraser",
 		"_Text": "Text",
 		"_Cut": "Crop",
-		"_Toggle_color": "Toggle color",
-		"The file is damaged":"The file is damaged"
+		"_Toggle_color": "Toggle color"
 	},
 	"IOS_Ipad_Iphone": {
     "Version":"1.0.1",
