@@ -451,7 +451,8 @@ var english={
 		"_Rubber": "Eraser",
 		"_Text": "Text",
 		"_Cut": "Crop",
-		"_Toggle_color": "Toggle color"
+		"_Toggle_color": "Toggle color",
+		"The file is damaged":"The file is damaged"
 	},
 	"IOS_Ipad_Iphone": {
     "Version":"1.0.1",
