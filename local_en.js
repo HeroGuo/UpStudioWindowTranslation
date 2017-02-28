@@ -1,5 +1,5 @@
 var english={
-	"name": {
+"name": {
 		"version": "1.6",
 		"date": "2017-01-10",
 		"name": "en"
@@ -284,9 +284,8 @@ var english={
 		"Infill_style4": "65%",
 		"Infill_style5": "80%",
 		"Infill_style6": "99%",
-		
 		"Manual_activation": "Manual activation",
-		"Manual_file": "Please load active.code file to activate the printer",
+		"Manual_file": "Please load activeCode.act file to activate the printer",
 		"Copy_message": "Copy information to clipboard",
 		"Manual_fail": "Failed to return activation code from server",
 		"Manual_download": "Loading",
@@ -304,9 +303,21 @@ var english={
 		"Model_buy_times": "Purchases",
 		"Manual_email": "If you do not have this file, you can log in",
 		"Model_publish_limited": "Unlimited price can not be less than the price of a single model",
-		"Manual_pass_information": "Via the following information:",
+		"Manual_pass_information": "Copy the following information:",
 		"Manual_get_code":"Gets the active file ActiveCode.act, activates the printer manually",
-		"Colud_Print":"Printing with Cloud Parameters"
+		"Colud_Print":"Printing with Cloud Parameters",
+		"Manual_active_login_font": "You can sign in",
+		"Manual_get_code_select": "Get activeCode.act",
+		"Manual_send_email": "Send the following information to zhangyh@tiertime.net to get:",
+		"Manual_select_hide": "Collapse",
+		"Check_upload_ups":"Can not upload protected model",
+		"Model_Skin_Color":"System Color",
+		"Model_Skin_Color": "Default Color",
+		"Easy_peel": "Easy to peel",
+
+		"Model_count_number": "The number of prints can not be less than 1",
+		"Local_model": "Local",
+		"Load_check": "Load selected"
 	},
 	"print": {
 		"PrinterStatus-1": "Printer not Connected",
@@ -454,7 +465,9 @@ var english={
 		"ERROR: Model validation failure":"ERROR: Model validation failure",
 		"Can Not Open File!":"Can Not Open File!",
 		"Can Not Verify File!":"Can Not Verify File!",
-		"User Does Not Match!":"User Does Not Match!"
+		"User Does Not Match!":"User Does Not Match!",
+		"ERROR: Clear SD card error":"Error: clean up the SD card error",
+		"Clear SD card ok":"Clean SD card successfully"
 	},
 	"graphic": {
 		"Filepath: ": "File Path: ",
