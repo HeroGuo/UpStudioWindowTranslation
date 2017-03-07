@@ -1,7 +1,7 @@
 var english={
 "name": {
 		"version": "1.6",
-		"date": "2017-01-10",
+		"date": "2017-03-7",
 		"name": "en"
 	},
 	"_front": {
@@ -129,7 +129,6 @@ var english={
 		"Reprint": "Reprint",
 		"Slot": "Slot",
 		"Number": "NO.",
-		"Model_Name": "Model Name",
 		"Time": "Time",
 		"Date": "Date",
 		"Choose": "Choose",
@@ -453,7 +452,6 @@ var english={
 		"Not Prompt":"Not Prompt",
 		"No material detected, please replace it":"No material detected, please replace it",
 		"ERROR: Publish failure":"ERROR: Publish failure",
-
 		"ERROR:Gcode failed to run":"ERROR:Gcode failed to run",
 		"Run File":"Run file",
 		"ERROR: Input Not Valid":"ERROR: Input Not Valid",
@@ -495,7 +493,6 @@ var english={
 		"Exit": "Exit",
 		"app is not verified":"App is not verified",
 		"The file is damaged": "The file is damaged",
-		
 		"current models contain protected model! can not do this operation!":"Current models contain protected model! Can not do this operation!",
 		"UnKnown ERROR!Please Contact TierTime!":"UnKnown ERROR!Please Contact TierTime!"
 	},
